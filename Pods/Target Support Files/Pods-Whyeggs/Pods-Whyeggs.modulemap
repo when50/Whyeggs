@@ -1,0 +1,6 @@
+framework module Pods_Whyeggs {
+  umbrella header "Pods-Whyeggs-umbrella.h"
+
+  export *
+  module * { export * }
+}
